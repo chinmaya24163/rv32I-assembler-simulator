@@ -16,13 +16,13 @@
 
 
 
-# \## Project Repositories
+# \## Repositories
 
 # 
 
-# \* \*\*RV32I Assembler Assembler\*\* → https://github.com/chinmaya24163/custom-RV32I-assembler
+# \* \*\*Assembler\*\*: \[custom-RV32I-assembler](https://github.com/chinmaya24163/custom-RV32I-assembler)
 
-# \* \*\*RV32I Simulator\*\* → https://github.com/chinmaya24163/RV32I\_Simulator
+# \* \*\*Simulator\*\*: \[RV32I\_Simulator](https://github.com/chinmaya24163/RV32I\_Simulator)
 
 
 
@@ -51,6 +51,4 @@
 # \* Step-by-step simulation
 
 # \* Displays register and memory updates
-
-
 
